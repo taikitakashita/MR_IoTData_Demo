@@ -1,0 +1,2 @@
+C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\MR_IoTData_Demo\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\MR_IoTData_Demo\App\MR_IoTData_Demo\MR_IoTData_Demo.csproj;x86
